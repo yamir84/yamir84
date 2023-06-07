@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yamir84 fron IoT Cuba Electronica
+- 👋 Hi, I’m @yamir84 IoTHost.org
 
 
 <!---
